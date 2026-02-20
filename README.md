@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filsan.</h1>
-<h3 align="center">I am a recent Code First Girls 16-week full-stack development bootcamp graduate and keen to transition into a junior software engineering/DevOps engineering role. Currently building skills in DevOps at CoderCo.</h3>
+<h3 align="center"> I am a DevOps Engineer passionate about scalability and automation. </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
