@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Filsan.</h1>
-<h3 align="center"> I am a DevOps Engineer passionate about scalability and automation. </h3>
+<h3 align="center"> I am a DevOps Engineer passionate about scalability. </h3>
 
 
 
